@@ -1,0 +1,5 @@
+# Protect non-document files during merge
+# Only zh/ and en/ directories accept changes from other branches
+* merge=ours
+zh/** merge
+en/** merge

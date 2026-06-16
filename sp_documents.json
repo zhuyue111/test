@@ -1,0 +1,567 @@
+{
+  "zh": {
+    "CPE02": {
+      "通用": [
+        "CPE02规格书_V1.0.pdf"
+      ]
+    },
+    "CR202-Lite": {
+      "通用": [
+        "CR202-Lite规格书_V1.0.pdf"
+      ]
+    },
+    "CR602": {
+      "通用": [
+        "北京映翰通5G CR602产品规格书V1.0.pdf"
+      ]
+    },
+    "EAP600": {
+      "通用": [
+        "映翰通_EAP600_企业级AP产品规格书_V1.0.pdf"
+      ]
+    },
+    "EC300": {
+      "通用": [
+        "EC312系列边缘计算机产品规格书V1.0.pdf"
+      ]
+    },
+    "EC300-LoRaWAN": {
+      "通用": [
+        "EC312系列LoRaWAN边缘网关产品规格书V1.0.pdf"
+      ]
+    },
+    "EC3000": {
+      "通用": [
+        "EC3320系列边缘AI计算机产品规格书_V1.0.pdf"
+      ]
+    },
+    "EC5000": {
+      "通用": [
+        "EC5000系列边缘AI计算机产品规格书V1.0.pdf"
+      ]
+    },
+    "EC940": {
+      "通用": [
+        "EC942系列边缘计算机产品规格书V1.0.pdf"
+      ]
+    },
+    "EC950": {
+      "通用": [
+        "EC954系列边缘计算机产品规格书端子版V1.0.pdf"
+      ]
+    },
+    "ER2000": {
+      "通用": [
+        "ER2000规格书_V1.0.pdf"
+      ]
+    },
+    "ER605": {
+      "通用": [
+        "ER605规格书_V1.0.pdf"
+      ]
+    },
+    "ER615": {
+      "通用": [
+        "ER615规格书_V1.0.pdf"
+      ]
+    },
+    "ER805": {
+      "通用": [
+        "ER805规格书_1.0.pdf"
+      ]
+    },
+    "ER815": {
+      "通用": [
+        "ER815规格书_V1.0.pdf"
+      ]
+    },
+    "ES220": {
+      "通用": [
+        "ES220规格书_V1.0.pdf"
+      ]
+    },
+    "ES620": {
+      "通用": [
+        "ES620规格书_V1.0.pdf"
+      ]
+    },
+    "FWA02": {
+      "通用": [
+        "FWA02规格书_V1.0.pdf"
+      ]
+    },
+    "IG101": {
+      "通用": [
+        "IG101系列边缘网关产品规格书V1.0.pdf"
+      ]
+    },
+    "IG502": {
+      "通用": [
+        "IG502系列边缘网关产品规格书V1.0.pdf"
+      ]
+    },
+    "IG502-LITE": {},
+    "IG504": {},
+    "IG532": {},
+    "IG902": {
+      "通用": [
+        "IG902系列边缘网关产品规格书V1.0.pdf"
+      ]
+    },
+    "IG974": {},
+    "InBOX710 人脸识别安卓工控机": {
+      "通用": [
+        "InBOX710规格书_V1.0.pdf"
+      ]
+    },
+    "InBOX712 人脸识别安卓工控机": {
+      "通用": [
+        "InBOX712产品规格书_V1.0.pdf"
+      ]
+    },
+    "InBOX732": {
+      "通用": [
+        "InBOX732产品规格书_V1.0.pdf"
+      ]
+    },
+    "InConnect": {
+      "通用": [
+        "映翰通InConnect产品规格书_V1.0.pdf"
+      ]
+    },
+    "InPAD070S": {
+      "通用": [
+        "InPAD070S规格_V1.0.pdf"
+      ]
+    },
+    "InPAD3101": {
+      "通用": [
+        "InPAD3101产品规格_V1.0.pdf"
+      ]
+    },
+    "IR302": {
+      "通用": [
+        "北京映翰通工业路由器IR302产品规格书V1.0.pdf"
+      ]
+    },
+    "IR305": {},
+    "IR315": {
+      "通用": [
+        "北京映翰通工业路由器IR315产品规格书V1.0.pdf"
+      ]
+    },
+    "IR624": {
+      "通用": [
+        "北京映翰通工业级路由器IR624系列产品规格书V1.0.pdf"
+      ]
+    },
+    "IR925": {},
+    "LoRaWAN Terminals": {
+      "通用": [
+        "LT312规格书_V1.0.pdf"
+      ]
+    },
+    "MDT600": {
+      "通用": [
+        "MDT600_规格书_V1.0.pdf"
+      ]
+    },
+    "MO 62A": {
+      "通用": [
+        "MO 62A系列AI单板计算机产品规格书V1.0.pdf"
+      ]
+    },
+    "MO 68A": {
+      "通用": [
+        "MO68A_规格书_V1.0.pdf"
+      ]
+    },
+    "ODU2002": {
+      "通用": [
+        "ODU2002规格书_V1.0.pdf"
+      ]
+    },
+    "VG710": {
+      "4G版": [
+        "VG710_4G规格书_V1.0.pdf"
+      ],
+      "5G版": [
+        "VG710_5G规格书_V1.0.pdf"
+      ],
+      "通用": [
+        "VG710-M12规格书_V1.0.pdf"
+      ]
+    },
+    "VG814": {
+      "通用": [
+        "VG814车载网关产品规格书_V1.0.pdf"
+      ]
+    },
+    "VR624": {
+      "通用": [
+        "VR624 车载路由规格书 V1.0.pdf"
+      ]
+    },
+    "VT200": {
+      "通用": [
+        "VT200_车载追踪网关规格书V1.0.pdf"
+      ]
+    },
+    "VT300": {
+      "通用": [
+        "VT310_车载追踪网关规格书V1.0.pdf"
+      ]
+    },
+    "小星云管家": {
+      "通用": [
+        "小星云管家_产品规格书_AI版_V1.0.pdf"
+      ]
+    }
+  },
+  "en": {
+    "AE510": {
+      "General": [
+        "AE510SmartKit_Datasheet_V1.0.pdf"
+      ]
+    },
+    "CPE02": {
+      "General": [
+        "CPE02_Datasheet_V1.0.pdf"
+      ]
+    },
+    "CR202-Lite": {
+      "General": [
+        "CR202-Lite_Datasheet_V1.0.pdf"
+      ]
+    },
+    "CR602": {
+      "General": [
+        "InHand Networks 5G CR602 Product Datasheet V1.0.pdf"
+      ]
+    },
+    "Device Manager": {
+      "General": [
+        "DeviceManager_Product_Datasheet_V2.7_V1.0.pdf"
+      ]
+    },
+    "DeviceLive": {
+      "General": [
+        "DeviceLive_Product_Datasheet_V1.0.pdf"
+      ]
+    },
+    "Eagle Energy Management": {
+      "General": [
+        "xEnergy-Datasheet_V1.0.pdf"
+      ]
+    },
+    "EAP600": {
+      "General": [
+        "EAP600_Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC300": {
+      "General": [
+        "EC312 Series Edge Computer_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC300-LoRaWAN": {
+      "General": [
+        "EC312 LoRaWAN Gateway_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC3000": {
+      "General": [
+        "EC3320 Edge Computer_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC3576-C": {
+      "General": [
+        "EC3576-C Core Board_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC3588-C": {
+      "General": [
+        "EC3588-C Core Board_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC5000": {
+      "General": [
+        "EC5000 AI Edge Computer_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC940": {
+      "General": [
+        "EC942 Edge Computer_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "EC950": {
+      "General": [
+        "EC954 Edge Computer_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "ER2000": {
+      "General": [
+        "ER2000_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ER605": {
+      "General": [
+        "ER605_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ER615": {
+      "General": [
+        "ER615_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ER805": {
+      "General": [
+        "ER805_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ER815": {
+      "General": [
+        "ER815_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ES220": {
+      "General": [
+        "ES220_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ES620": {
+      "General": [
+        "ES620_Datasheet_V1.0.pdf"
+      ]
+    },
+    "FWA02": {
+      "General": [
+        "FWA02_Datasheet_V1.0.pdf"
+      ]
+    },
+    "FWA12": {
+      "General": [
+        "FWA12_Datasheet_V1.0.pdf"
+      ]
+    },
+    "IG101": {
+      "General": [
+        "IG101 Edge Gateway_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "IG502": {
+      "General": [
+        "IG502 Edge Gateway_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "IG902": {
+      "General": [
+        "IG902 Edge Gateway_Prdt Datasheet_V1.0.pdf"
+      ]
+    },
+    "InBOX710 Industrial Computer": {
+      "General": [
+        "InBOX710_Datasheet_V1.0.pdf"
+      ]
+    },
+    "InBOX712 Industrial Computer": {
+      "General": [
+        "InBOX712_Datasheet_V1.0.pdf"
+      ]
+    },
+    "InBOX732": {
+      "General": [
+        "InBOX732__Datasheet_V1.0.pdf"
+      ]
+    },
+    "InCloudManager": {
+      "General": [
+        "InCloudManager_ProductBrief_AI_V1.0.pdf"
+      ]
+    },
+    "InConnect": {
+      "General": [
+        "InConnect_Product_Specifications_v3.3_EN.pdf"
+      ]
+    },
+    "InConnect Service": {
+      "General": [
+        "InConnect_Product_Datasheet_V1.0.pdf"
+      ]
+    },
+    "InPAD070S": {
+      "General": [
+        "InPAD070S_Datasheet_V1.0.pdf"
+      ]
+    },
+    "InPAD3101": {
+      "General": [
+        "InPAD3101_Datasheet_V1.0.pdf"
+      ]
+    },
+    "IR302": {
+      "General": [
+        "InHand_Networks_Industrial_Router_IR302_Product_Datasheet_V1.0.pdf"
+      ]
+    },
+    "IR315": {
+      "General": [
+        "InHand_Networks_Industrial_Router_IR315_Product_Datasheet_V1.0.pdf"
+      ]
+    },
+    "IR624": {
+      "General": [
+        "InHand_Networks_Industrial_Router_IR624_Product_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ISE2003D": {
+      "General": [
+        "ISE2003D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE2005D": {
+      "General": [
+        "ISE2005D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE2008D": {
+      "General": [
+        "ISE2008D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE2016D": {
+      "General": [
+        "ISE2016D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE3018D": {
+      "General": [
+        "ISE3018D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE5005D": {
+      "General": [
+        "ISE5005D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE5008D": {
+      "General": [
+        "ISE5008D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE5X06D": {
+      "General": [
+        "ISE5X06D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISE5X10D": {
+      "General": [
+        "ISE5X10D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM5012D": {
+      "General": [
+        "ISM5012D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM5020D": {
+      "General": [
+        "ISM5020D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM5026U-P": {
+      "General": [
+        "ISM5026U-P Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM5X06D": {
+      "General": [
+        "ISM5X06D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM5X10D": {
+      "General": [
+        "ISM5X10D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM7012D": {
+      "General": [
+        "ISM7012D Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM7028U-P": {
+      "General": [
+        "ISM7028U-P Datasheet V1.0.pdf"
+      ]
+    },
+    "ISM7312D": {
+      "General": [
+        "ISM7312D Datasheet V1.0.pdf"
+      ]
+    },
+    "LoRaWAN Terminals": {
+      "General": [
+        "LT312 Series LoRaWAN Terminal Node Product Datasheet V1.0.pdf"
+      ]
+    },
+    "MDT600": {
+      "General": [
+        "MDT600_Datasheet_V1.0_20251109_V1.0.pdf"
+      ]
+    },
+    "MO 62A": {
+      "General": [
+        "MO 62A AI Single Board Computer_Prd Datasheet_V1.0.pdf"
+      ]
+    },
+    "MO 68A": {
+      "General": [
+        "MO68A_Datasheet_V1.0.pdf"
+      ]
+    },
+    "ODU2002": {
+      "General": [
+        "ODU2002_Datasheet_V1.0.pdf"
+      ]
+    },
+    "VG710": {
+      "4G Version": [
+        "VG710_4G_Version_Datasheet_V1.0.pdf"
+      ],
+      "5G Version": [
+        "VG710_5G_Version_Datasheet_V1.0.pdf"
+      ],
+      "General": [
+        "VG710-M12_Version_Datasheet_V1.0.pdf"
+      ]
+    },
+    "VG814": {
+      "General": [
+        "VG814_Datasheet_Railway_Transport_V1.0.pdf"
+      ],
+      "Road": [
+        "VG814_Datasheet_Road_Transport_V1.0.pdf"
+      ]
+    },
+    "VR624": {
+      "General": [
+        "VR624 Vehicle Router Datasheet V1.0.pdf"
+      ]
+    },
+    "VT200": {
+      "General": [
+        "InVT200_Vehicle_Telematics_Datasheet_V1.0.pdf"
+      ]
+    },
+    "VT310": {
+      "General": [
+        "VT310_Vehicle_Telematics_Datasheet_V1.0.pdf"
+      ]
+    },
+    "VT320": {
+      "General": [
+        "VT320_Vehicle_Telematics_Datasheet_V1.0.pdf"
+      ]
+    }
+  }
+}
