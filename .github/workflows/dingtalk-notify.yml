@@ -1,0 +1,24 @@
+name: 规格书更新推送钉钉
+# 仅监听main分支、仅PDF文件变动时触发
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.pdf'
+jobs:
+  send-notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 推送更新通知到钉钉群
+        env:
+          DING_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+        run: |
+          curl -X POST $DING_WEBHOOK \
+          -H "Content-Type: application/json" \
+          -d '{
+            "msgtype": "markdown",
+            "markdown": {
+              "title": "【规格书更新】",
+              "text": "### 📄 映翰通规格书仓库有新版PDF上传\n> 操作人：${{ github.actor }}\n> 提交备注：${{ github.event.head_commit.message }}\n> 仓库直达：${{ github.event.repository.html_url }}\n\n关键词：规格书更新"
+            }
+          }'
